@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: My Thoughts
 ---
+It seems like I finally found a seamless solution to store and publish my thoughts.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Feel free to look around - I think the most valuable page is my [[Resources|resources page]].
